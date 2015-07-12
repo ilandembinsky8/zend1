@@ -38,6 +38,4 @@ Pungent, semi-firm white drum
 3. cake
 4. Pavlova
 5. Profitorol
-6. Mahatma Gandish - remove or revert commit :)
-7. tag experiment - remove later
 
