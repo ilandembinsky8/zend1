@@ -1,1 +1,2 @@
-menu project
+Food menu project 
+Only very tasty meals
